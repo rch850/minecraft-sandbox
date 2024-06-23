@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "This is a resource pack used to demo components!",
+    "name": "Vertical Half Block Resource Pack",
+    "uuid": "5dbec4ad-442a-4ca0-b9d0-edb1a4283591",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 19, 20]
+  },
+  "modules": [
+    {
+      "description": "Vertical Half Block Resource Pack",
+      "type": "resources",
+      "uuid": "645ee3ff-b2e8-4d4d-9962-46864b9919a9",
+      "version": [0, 0, 1]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Tate Half Block",
+    "name": "Vertical Half Block Behavior Pack",
+    "uuid": "a260cdd6-65d9-45b1-b3f7-4309ecdc9b60",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 19, 20]
+  },
+  "modules": [
+    {
+      "description": "Vertical Half Block Behavior Pack",
+      "type": "data",
+      "uuid": "db503521-455a-4992-8811-97b01b49c4b5",
+      "version": [0, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "5dbec4ad-442a-4ca0-b9d0-edb1a4283591",
+      "version": [0, 0, 1]
+    }
+  ]
+}
