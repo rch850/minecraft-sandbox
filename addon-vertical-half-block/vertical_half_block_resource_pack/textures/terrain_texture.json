@@ -24,6 +24,9 @@
     },
     "die_red": {
       "textures": "textures/blocks/die_red"
+    },
+    "vblock2": {
+      "textures": "textures/blocks/vblock2.png"
     }
   }
 }

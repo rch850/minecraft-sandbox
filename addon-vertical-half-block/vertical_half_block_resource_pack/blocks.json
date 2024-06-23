@@ -11,5 +11,8 @@
     },
     "carried_textures": "die_red",
     "sound": "stone"
+  },
+  "demo:vblock2": {
+    "sound": "stone"
   }
 }
